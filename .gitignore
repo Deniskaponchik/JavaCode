@@ -10,6 +10,7 @@ target/
 *.iws
 *.info
 *.properties
+*.xml
 
 ### Eclipse ###
 .apt_generated
