@@ -4,12 +4,12 @@ package CompareTxtFiles;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.InputStreamReader;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
-/*
-Транзакционность
-*/
+/*Транзакционность*/
 
 public class Solution {
     public static List<String> allLines = new ArrayList<String>();
@@ -20,6 +20,11 @@ public class Solution {
         String fileName1 = null;
         String fileName2 = null;
         try {
+            //Считать все строки из файла:
+            //allLines = Files.readAllLines(Paths.get(reader.readLine()));
+            //forRemoveLines = Files.readAllLines(Paths.get(reader.readLine()));
+
+            //Код от JavaRush
             fileName1 = reader.readLine();
             fileName2 = reader.readLine();
             reader.close();
@@ -32,6 +37,7 @@ public class Solution {
             while ((input = fReader2.readLine()) != null)
                 forRemoveLines.add(input);
             fReader2.close();
+
             new Solution().joinData();
         } catch (Exception ignore) {
         }
@@ -39,10 +45,13 @@ public class Solution {
     }
 
     public void joinData() throws CorruptedDataException {
-        if (allLines.containsAll(forRemoveLines))
+        if (allLines.containsAll(forRemoveLines)) {
             allLines.removeAll(forRemoveLines);
+            System.out.println("удалены все совпадающие строки");
+        }
         else {
             allLines.clear();
+            System.out.println("Проброшено исключение");
             throw new CorruptedDataException();
         }
 

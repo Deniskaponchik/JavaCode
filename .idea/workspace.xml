@@ -5,17 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee15e81b-89e3-4a74-a67d-f2a6281ca1ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TEST/src/Atomic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEST/src/CompareObjects/Beach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEST/src/CompareTxtFiles/CorruptedDataException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEST/src/CompareTxtFiles/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEST/src/MergeSortStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEST/src/ThreadsArgs/ArgsSync.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEST/src/ThreadsArgs/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEST/src/ThreadsArgs/Sex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/src/AraysMy/twoDimArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/src/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/src/Cloneb/CloneMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/src/Collections/TreeSetSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/src/Dates/DifDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/src/JFrameMy/TestFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/src/Serialize/Externalize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/src/Serialize/RedefineSerializInStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/src/Serialize/RedefinitionSerialize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/src/Sorts/Bubble/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/src/Sorts/Merge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/src/Sorts/Merge/MergeInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/src/Sorts/Quick/QuickInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/src/Sorts/Selection/SelectionInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/src/Sorts/Selection/SelectionStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/src/Stack/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/src/Streams/FileReaderWriter/Property.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/src/Streams/FileReaderWriter/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CFT/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEST/src/CompareTxtFiles/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/src/CompareTxtFiles/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEST/src/MergeSortStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/src/Sorts/Merge/MergeStrings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,20 +55,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/Clouds/Mega/Work/Learning/1.IT/Coding/Java/JavaCode&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "F:/Clouds/Mega/Work/Learning/1.IT/Coding/Java/JavaCode",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Collections" />
       <recent name="" />
     </key>
   </component>
