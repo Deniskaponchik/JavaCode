@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee15e81b-89e3-4a74-a67d-f2a6281ca1ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TEST/src/Comparator/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEST/src/Patterns/Lesson7Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/src/Tinkoff/Task1/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/src/Tinkoff/Task1/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/src/Tinkoff/Task1/Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEST/src/AraysMy/twoDimArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/src/AraysMy/twoDimArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEST/src/Atomic.java" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/src/Atomic/Atomic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEST/src/BufInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/src/Buffer/BufInputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEST/src/BufOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/src/Buffer/BufOutputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEST/src/Calculate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEST/src/ScanInputOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/src/Scanner/ScanInputOutput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +65,44 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Tinkoff.Task1" />
       <recent name="Collections" />
       <recent name="" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.Task2">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tinkoff.Task1.Task1" />
+      <module name="TEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tinkoff.Task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tinkoff.Task1.Task2" />
+      <module name="TEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tinkoff.Task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -72,6 +114,8 @@
       <updated>1676246159482</updated>
       <workItem from="1680997145891" duration="702000" />
       <workItem from="1681136341082" duration="26000" />
+      <workItem from="1687317124994" duration="1021000" />
+      <workItem from="1687728108524" duration="8474000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1676247262172</created>

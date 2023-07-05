@@ -1,4 +1,4 @@
-//Чтение из файла с помощью BufferedReader
+package Buffer;//Чтение из файла с помощью BufferedReader
 //https://metanit.com/java/tutorial/6.9.php
 import java.io.*;
 public class BufInputStream {

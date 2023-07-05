@@ -14,9 +14,12 @@ public class twoDimArr {
                 matrix[i][j] = '.';
             }
         }
+
+        /*
         //Рисуем все кусочки змеи
         //Голова
         matrix[snake.getSections().get(0).getY()][snake.getSections().get(0).getX()] = 'X';
+
         //Тело
         for (int i = 1; i < snake.getSections().size(); i++) {
             matrix[snake.getSections().get(i).getY()][snake.getSections().get(i).getX()] = 'x';
@@ -30,6 +33,7 @@ public class twoDimArr {
             }
             System.out.println();
         }
+         */
     }
 
 

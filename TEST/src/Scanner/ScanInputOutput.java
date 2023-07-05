@@ -1,4 +1,4 @@
-//КОД РАБОЧИЙ !!!
+package Scanner;//КОД РАБОЧИЙ !!!
 
 import java.io.FileNotFoundException;
 import java.util.Scanner;

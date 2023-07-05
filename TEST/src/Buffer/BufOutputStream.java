@@ -1,4 +1,4 @@
-//https://metanit.com/java/tutorial/6.9.php
+package Buffer;//https://metanit.com/java/tutorial/6.9.php
 import java.io.*;
 public class BufOutputStream {
     public static void main(String[] args) throws IOException {
