@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee15e81b-89e3-4a74-a67d-f2a6281ca1ea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TEST/src/Tinkoff/Task1/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEST/src/Tinkoff/Task1/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEST/src/Tinkoff/Task1/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/AraysMy/twoDimArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/src/AraysMy/twoDimArr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/Atomic.java" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/src/Atomic/Atomic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/BufInputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/src/Buffer/BufInputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/BufOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/src/Buffer/BufOutputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/Calculate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/src/ScanInputOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/src/Scanner/ScanInputOutput.java" afterDir="false" />
-    </list>
+    <list default="true" id="ee15e81b-89e3-4a74-a67d-f2a6281ca1ea" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,25 +33,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/Clouds/Mega/Work/Learning/1.IT/Coding/Java/JavaCode&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "F:/Clouds/GitHub/JavaCode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Tinkoff.Task1" />
@@ -116,6 +105,7 @@
       <workItem from="1681136341082" duration="26000" />
       <workItem from="1687317124994" duration="1021000" />
       <workItem from="1687728108524" duration="8474000" />
+      <workItem from="1688527180170" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1676247262172</created>
